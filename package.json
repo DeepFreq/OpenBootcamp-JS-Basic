@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "¡Hi!, this is my first project with Node on the best bootcamp of programming in the world, 'OpenBootcamp'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "sayHi": "node hello_world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helloworld",
+    "firstproject"
+  ],
+  "author": "Alan L. Acosta",
+  "license": "ISC"
+}
